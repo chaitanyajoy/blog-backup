@@ -3,7 +3,7 @@ title: "Make Dirty Code Say “I'm Clean”"
 datePublished: Thu Aug 31 2023 14:52:04 GMT+0000 (Coordinated Universal Time)
 cuid: cllzabi6q000f0akyaow0ejjh
 slug: make-dirty-code-say-im-clean
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693493614307/71b8e490-9bc3-42dc-bc37-b20ec2c4f005.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693579960825/22449a47-5396-4f7b-b5f0-3ed333a0a7ca.jpeg
 tags: design-patterns, clean-code, clean-architecture, solid-principles
 
 ---
