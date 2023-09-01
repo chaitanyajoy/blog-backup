@@ -1,5 +1,5 @@
 ---
-title: "Make Dirty Code Say 'I'm Clean'"
+title: "Make Dirty Code Say “I'm Clean”"
 datePublished: Thu Aug 31 2023 14:52:04 GMT+0000 (Coordinated Universal Time)
 cuid: cllzabi6q000f0akyaow0ejjh
 slug: make-dirty-code-say-im-clean
