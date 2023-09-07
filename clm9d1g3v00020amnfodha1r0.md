@@ -3,6 +3,7 @@ title: "The HTTP Restaurant Adventure"
 datePublished: Thu Sep 07 2023 16:05:55 GMT+0000 (Coordinated Universal Time)
 cuid: clm9d1g3v00020amnfodha1r0
 slug: remember-http-status-codes
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694103086732/8c070d36-345e-4890-9df6-b013ea0d5635.png
 tags: apis, rest-api, http-status
 
 ---
