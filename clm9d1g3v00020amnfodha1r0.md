@@ -36,7 +36,7 @@ Just a heads up, you are the client, the restaurant is the server, and the waite
 
 ### **2xx Successful - A Delightful Dining Experience**
 
-Once you're seated at your cosy table, the magic begins. The waiter takes your order, and soon enough, a delicious meal arrives.
+Once you're seated at your table, the process begins. The waiter takes your order, and soon enough, a delicious meal arrives.
 
 You say "1 Pizza"
 
@@ -54,7 +54,7 @@ You request him to serve an item. He accepts it by saying OK. This is just like 
 
 ### **3xx Redirection - The Waiter's Gesture**
 
-Now, imagine you've enjoyed your main course, but as you contemplate the dessert menu, you request a piece of mango cool cake.
+Now, imagine you've enjoyed your main course, as you look at the dessert menu, you request a piece of mango cool cake.
 
 For some reason, the waiter approaches and kindly suggests, 'Sir, how about trying this Italian mango cool cake instead?' This thoughtful gesture mirrors the '3xx Redirection' code as you smoothly transition to something equally delightful.
 
@@ -66,11 +66,11 @@ More redirections can cause [network traffic](https://en.wikipedia.org/wiki/Netw
 
 If I walk into a bare village and ask for a cappuccino or a chicken burrito, they would look at me from head to toe. It's my mistake. I should have asked for their menu before!
 
-Even in cities, we slip to order something that is not on the menu. When that happens, the waiter politely tells you it's not available. This is similar to the "4xx Client Errors" code. It means there's been a little hiccup, but it's usually something you can fix.
+Even in cities, we tend to order something that is not on the menu. When that happens, the waiter politely tells you it's not available. This is similar to the "4xx Client Errors" code. It means there's been a little hiccup, but it's usually something you can fix.
 
 ### **5xx Server Errors - A Momentary Glitch**
 
-Picture a cosy evening at the restaurant when suddenly the lights flicker due to a power outage. A bad day for the staff, and a good day for the electrician who swiftly fixes it. This is just like the "5xx Server Errors" code. It's a temporary glitch, and the team is on it to get things back to normal ASAP.
+You're enjoying the meal and suddenly the lights flicker due to a power outage. A bad day for the staff, and a good day for the electrician who swiftly fixes it. This is just like the "5xx Server Errors" code. It's a temporary glitch, and the team is on it to get things back to normal ASAP.
 
 This is a general catch-all error when the server side throws an exception.
 
@@ -82,7 +82,7 @@ At some point during your meal, the chef pays a visit to your table, asking if e
 
 **404 Not Found - Off-Menu Items**
 
-You spot something intriguing on the menu, but the waiter kindly informs you that it's not available. Think of this as the '404 Not Found' code. It's like trying to order a dish that's not currently offered on the menu—bummer!
+You spot something interesting on the menu, but the waiter kindly informs you that it's not available. Think of this as the '404 Not Found' code. It's like trying to order a dish that's not currently offered on the menu.
 
 **503 Service Unavailable - A Quick Timeout**
 
@@ -95,3 +95,5 @@ Lastly, if you decide to change your dining spot, they provide you with a perman
 ### **Conclusion - HTTP Status Codes!**
 
 There you have it, your friendly restaurant guide to HTTP status codes. The next time you encounter these codes in your tech adventures, just remember the delicious experiences at "HTTP Restaurant Express."
+
+Just in case, you find these writings interesting, a little more scroll would bring you a subscription popup, Consider hitting the subscribe button in it.
