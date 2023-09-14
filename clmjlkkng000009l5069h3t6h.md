@@ -1,5 +1,5 @@
 ---
-title: "Surviving RAM's First Stroke with pyTest"
+title: "Surviving The First Memory Stroke with pyTest"
 datePublished: Thu Sep 14 2023 20:02:26 GMT+0000 (Coordinated Universal Time)
 cuid: clmjlkkng000009l5069h3t6h
 slug: pytest-performance-monitoring
