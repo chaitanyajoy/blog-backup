@@ -12,8 +12,6 @@ One day, when I was sleeping, my WhensAPP decided to update itself to 2.3.4.23.0
 
 Yet, I googled why this mysterious update happened, and discovered that it is meant only to improve one thing. It would seem surprisingly simple, yet incredibly significant.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694721373244/ec03a104-7ca0-4e19-b84f-b67f4e0645e3.png align="center")
-
 ## **The Performance!**
 
 Software or code performance is not just about a single thing, there are many factors associated with it. Not to sound or act like an expert, but I have listed a few from my notes. Even, we will try to understand some of them.
