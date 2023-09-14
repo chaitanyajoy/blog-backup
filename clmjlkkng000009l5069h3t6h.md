@@ -1,8 +1,8 @@
 ---
-title: "Avoid RAM's First Stroke: Background Monitoring with Pytest"
+title: "Surviving RAM's First Stroke with pyTest"
 datePublished: Thu Sep 14 2023 20:02:26 GMT+0000 (Coordinated Universal Time)
 cuid: clmjlkkng000009l5069h3t6h
-slug: avoid-rams-first-stroke-background-monitoring-with-pytest
+slug: surviving-rams-first-stroke-with-pytest
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694721469708/10a8a6e7-4d6c-4cf6-b631-e8f7039ab5bc.png
 tags: python, performance, apis, test-automation, pytest
 
